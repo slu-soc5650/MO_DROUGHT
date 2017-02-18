@@ -27,6 +27,20 @@ These data focus on general trends, so local conditions may vary. One important 
 #### Narrative Summaries
 There is also [textual data](http://droughtmonitor.unl.edu/MapsAndData/NarrativeArchive.aspx) that accompanies the drought reports. The following are the narratives for the reporting periods covered by the data.
 
+##### 29 Nov 2016
+"Two to 4 inches of rain fell in a band from northeast Texas to southern Indiana, and across parts of central Alabama to central Georgia, as the cold fronts passed through the region. Over 4 inches was reported at a few stations in northeast Texas, northwest Louisiana, and southeast Missouri. Amounts ranged from half an inch to an inch and a half further east, but little to no rain fell by the USDM cutoff date across southeast Alabama and much of Florida to North Carolina. With November precipitation deficits through November 27, before the heavier rains fell, ranging from 3 to 5 inches across the driest parts of the Southeast, and year-to-date deficits ranging from 12 to 20 inches, locally well over 20 inches, 2 to 4 inches of new rain this week did little to alleviate the long-term dryness.
+
+D1-D3 were pulled back in parts of the Lower Mississippi Valley to Ohio Valley, from Arkansas and Louisiana to Indiana and Ohio. D0 was largely left in place because the weekly rainfall amounts were not enough to eliminate even the month-to-date deficits in the D0 areas, except in parts of northwest and southwest Indiana where D0 was trimmed. D3-D4 were pulled back slightly in parts of east central Mississippi to west central Georgia, mainly where 2.5+ inch rains fell."
+
+##### 06 Dec 2016
+"Precipitation amounts ranged from 2-8 inches across most of Tennessee during the past 7-days, and about 2-4 inches in southeast Kentucky. A one-category improvement was made in these areas. During the past 14-days, 3-6 inches of rain was observed in a region centered near Memphis, TN, which included the Missouri bootheel, far western Kentucky, eastern Arkansas, southwest Tennessee and adjacent parts of Mississippi. A one-category improvement was also made for these areas. USGS stream flow gauges generally indicate near-average stream and river flows."
+
+##### 13 Dec 2016
+**no specific narrative**
+
+##### 20 Dec 2016
+"The Ohio Valley received heavy precipitation, with Louisville, Kentucky (2.22 inches), and Cincinnati, Ohio (1.76 inches), reporting daily-record totals for December 17. Accordingly, coverage of dryness (D0) and moderate to severe drought (D1 to D2) was reduced or eliminated where heavy rain fell. Farther west, however, coverage of abnormal dryness expanded in the middle Mississippi Valley and environs, while some additional moderate drought (D1) crept into southern Missouri. December 1-20 precipitation totaled less than one-third of an inch (12 to 16% of normal) in Missouri locations such as Springfield, Joplin, and West Plains. Several weeks ago, on November 27—prior to the December dryness—topsoil moisture was rated 50% very short to short in southwestern Missouri."
+
 ##### 27 Dec 2016
 "Most of the Midwest received some precipitation, resulting in minor trimming of existing dryness (D0). Heavier rain was confined to areas near the Ohio River and points south. Meanwhile in the upper Midwest, a growing number of weather stations have broken annual precipitation records. Through December 27, for example, year-to-date precipitation reached 40.32 inches in Minneapolis-St. Paul, Minnesota, and 44.76 inches in La Crosse, Wisconsin. Previous (and long-standing) records had been 40.15 inches in 1911 and 44.74 inches in 1881, respectively."
 
