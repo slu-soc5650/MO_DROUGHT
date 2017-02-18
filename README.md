@@ -2,9 +2,14 @@
 
 ### Repository Contents
 This repository contains files for:
--   `Labs/` - replication files for lab examples
--   `Lectures/` - replication files for lecture examples
--   `Reference/` - reference materials for each week
+-   `MO_DM_20161227/` - Drought data for 27 Dec 2016
+-   `MO_DM_20170103/` - Drought data for 3 Jan 2017
+-   `MO_DM_20170110/` - Drought data for 10 Jan 2017
+-   `MO_DM_20170117/` - Drought data for 17 Jan 2017
+-   `MO_DM_20170124/` - Drought data for 24 Jan 2017
+-   `MO_DM_20170131/` - Drought data for 31 Jan 2017
+-   `MO_DM_20170207/` - Drought data for 7 Feb 2017
+-   `MO_DM_20170214/` - Drought data for 14 Feb 2017
 -   `LICENSE.md`
 -   `README.md`
 -   `.gitignore`
